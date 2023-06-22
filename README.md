@@ -19,4 +19,4 @@
 - İş unvanı, iş sorumlulukları, gerekli nitelikler ve diğer ilgili ayrıntılar hakkında bilgi sağlama
 
 
-![React Native](<reactnative_AdobeExpress (1).gif>)
+![Alt text](<reactnative_AdobeExpress (2).gif>)
