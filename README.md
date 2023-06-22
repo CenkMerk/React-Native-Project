@@ -18,6 +18,5 @@
 
 - İş unvanı, iş sorumlulukları, gerekli nitelikler ve diğer ilgili ayrıntılar hakkında bilgi sağlama
 
-<video controls>
-  <source src="reactnative.mp4" type="video/mp4">
-</video>
+
+![React Native](reactnative_AdobeExpress.gif)
