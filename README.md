@@ -8,7 +8,6 @@
 
 - Json tipindeki veriyi okuma ve kullanma
 
-
 ### 🛠️ Fonksiyonlar
 
 - İş fırsatlarını listelenme
@@ -19,7 +18,6 @@
 
 - İş unvanı, iş sorumlulukları, gerekli nitelikler ve diğer ilgili ayrıntılar hakkında bilgi sağlama
 
-
-
-
-<video src="reactnative.mp4" controls title="Title"></video>
+<video controls>
+  <source src="reactnative.mp4" type="video/mp4">
+</video>
