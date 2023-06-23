@@ -18,4 +18,4 @@
 
 - İş unvanı, iş sorumlulukları, gerekli nitelikler ve diğer ilgili ayrıntılar hakkında bilgi sağlama
 
-<img src="reactnative.gif" alt="alt yazı" width="320">
+<img src="reactnative.gif" alt="alt yazı" width="500px">
